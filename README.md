@@ -1,4 +1,4 @@
-# implentention-for-neuron-network
+# implementation-for-neuron-network
 First, we define the network as usual. For example, 
 
 	class Net(nn.Module):
